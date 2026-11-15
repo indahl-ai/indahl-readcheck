@@ -1,0 +1,17 @@
+{
+  "name": "indahl-readcheck",
+  "owner": {
+    "name": "Heuremen LLC",
+    "url": "https://indahl.ai"
+  },
+  "plugins": [
+    {
+      "name": "indahl-readcheck",
+      "source": "./",
+      "description": "Refuse a git commit that adds a reading (results, outcomes, readings files) without a complete check block keyed to the Heuremen LLC Standards recount requirements REQ-01 to REQ-13.",
+      "version": "1.1.0",
+      "category": "research",
+      "homepage": "https://indahl.ai/standard"
+    }
+  ]
+}
